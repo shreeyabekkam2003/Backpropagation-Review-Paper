@@ -1,4 +1,4 @@
-**Backpropagation and Biologically Plausible Gradient Descent Algorithms - Review Paper**
+# **Backpropagation and Biologically Plausible Gradient Descent Algorithms - Review Paper**
 
 Backpropagation has been the engine behind virtually every major advance in deep learning over the past three decades. It works remarkably well — but there's a persistent and increasingly important question about whether it has anything to do with how the brain actually learns. The short answer, based on current neuroscience, is probably not.
 
